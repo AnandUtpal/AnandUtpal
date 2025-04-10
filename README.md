@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, c language, Html, css
 - 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me - by email utpalanand28@gmail.com
+- 📫 How to reach me - by email utpalanand.work@gmail.com
 - i am all new here
 
 <!---
